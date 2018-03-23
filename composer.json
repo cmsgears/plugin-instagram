@@ -1,5 +1,5 @@
 {
-	"name" : "cmsgears/plugin-instagram",
+	"name" : "cmsgears/plugin-instagram-api",
 	"description" : "Instagram API plugin for CMSGears provide options to access Instagram APIs.",
 	"homepage" : "http://www.cmsgears.org",
 	"type" : "package",
@@ -14,7 +14,7 @@
 		"source" : "http://www.cmsgears.org/downloads/plugins/instagram",
 		"forum" : "http://forum.cmsgears.org/",
 		"resources" : "http://resources.cmsgears.org/",
-		"issues" : "https://www.amazingdesk.com/cmsgears/issues/",
+		"issues" : "https://www.amazingdesk.com/project/cmsgears/issues/",
 		"blog" : "http://cmsgears.tutorials24x7.com/"
 	},
 	"autoload" : {
@@ -23,7 +23,6 @@
 		}
 	},
 	"require" : {
-		"php" : ">=7.0.0",
 		"cmsgears/module-core" : "*"
 	}
 }
