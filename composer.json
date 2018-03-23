@@ -1,6 +1,6 @@
 {
 	"name" : "cmsgears/plugin-instagram",
-	"description" : "Instagram plugin for CMSGears provide options to view instagram posts.",
+	"description" : "Instagram API plugin for CMSGears provide options to access Instagram APIs.",
 	"homepage" : "http://www.cmsgears.org",
 	"type" : "package",
 	"keywords" : [
